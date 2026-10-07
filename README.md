@@ -47,7 +47,7 @@ A chess training application that helps players improve their positional underst
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/bezalel6/eval-guesser.git
+git clone https://github.com/RNDev666/eval-guesser.git
 cd eval-guesser
 ```
 
